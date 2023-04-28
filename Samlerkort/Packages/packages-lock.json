@@ -7,6 +7,14 @@
       "dependencies": {},
       "url": "https://unity.virtualearth.net/npm/registry"
     },
+    "com.ptc.vuforia.engine": {
+      "version": "file:com.ptc.vuforia.engine-10.14.4.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      }
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.0",
       "depth": 0,

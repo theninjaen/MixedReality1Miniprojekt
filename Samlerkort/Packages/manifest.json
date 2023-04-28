@@ -1,14 +1,15 @@
 {
-  "scopedRegistries": [
-    {
-      "name": "Maps SDK for Unity",
-      "url": "https://unity.virtualearth.net/npm/registry/",
-      "scopes": [
-        "com.microsoft.maps"
-      ]
-    }
-  ],
-  "dependencies": {
+    "scopedRegistries": [
+        {
+            "name": "Maps SDK for Unity",
+            "url": "https://unity.virtualearth.net/npm/registry/",
+            "scopes": [
+                "com.microsoft.maps"
+            ]
+        }
+    ],
+    "dependencies": {
+    "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-10.14.4.tgz",
     "com.microsoft.maps.unity": "0.11.2",
     "com.unity.collab-proxy": "2.0.0",
     "com.unity.feature.development": "1.0.1",
